@@ -3,7 +3,8 @@ A complete SQL-based data analytics project covering Exploratory Data Analysis (
 
 The repository uses T-SQL and is organized as a repeatable workflow. Each script builds on the analysis concepts introduced by the previous one.
 
-![Uploading SQL Project map.jpg…]
+
+<img width="3287" height="4037" alt="Data Analytics(EDA+Advanced Analytics) Diagram" src="https://github.com/user-attachments/assets/6b61f476-ccff-475d-8327-5fbf5d88a9de" />
 
 
 ---------
