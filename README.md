@@ -10,8 +10,9 @@ The repository uses T-SQL and is organized as a repeatable workflow. Each script
 # Overview
 ```
 This project demonstrates how SQL can be used to understand a dataset, answer business questions, identify trends, and create reporting views.
----
 ```
+---
+
 # The workflow progresses through:
 ```
   ->Database and table exploration
