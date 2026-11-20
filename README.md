@@ -3,7 +3,9 @@ A complete SQL-based data analytics project covering Exploratory Data Analysis (
 
 The repository uses T-SQL and is organized as a repeatable workflow. Each script builds on the analysis concepts introduced by the previous one.
 
-![T-SQL](https://img.shields.io/badge/T--SQL-100%25-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+![Uploading SQL Project map.jpg…]()
+
+
 ---------
 # Overview
 ```
