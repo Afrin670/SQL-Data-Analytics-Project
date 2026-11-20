@@ -3,17 +3,27 @@ A complete SQL-based data analytics project covering Exploratory Data Analysis (
 
 The repository uses T-SQL and is organized as a repeatable workflow. Each script builds on the analysis concepts introduced by the previous one.
 
-![Uploading SQL Project map.jpg…]()
+![Uploading SQL Project map.jpg…]
 
 
 ---------
-# Overview
+# 🎯Overview
 ```
 This project demonstrates how SQL can be used to understand a dataset,
 answer business questions, identify trends, and create reporting views.
 ```
 ---
-
+#✨ The project is ready to the  answer questions such as:
+```
+Which customers generate the most revenue?
+Which products have the highest sales?
+How do sales change over time?
+Which categories contribute the largest share of total revenue?
+How does current performance compare with previous periods?
+What customer segments exist in the data?
+Which products should receive more attention based on sales and performance?
+```
+----
 # The workflow progresses through:
 ```
   ->Database and table exploration
@@ -65,18 +75,7 @@ SQL-Data-Analytics-Project/
 
 ```
 ---
-# The project is ready to the  answer questions such as:
-```
-Which customers generate the most revenue?
-Which products have the highest sales?
-How do sales change over time?
-Which categories contribute the largest share of total revenue?
-How does current performance compare with previous periods?
-What customer segments exist in the data?
-Which products should receive more attention based on sales and performance?
-```
----
-# Documentation
+# 📄Documentation
 The docs directory contains supporting project materials:
 
 SQL project roadmap
