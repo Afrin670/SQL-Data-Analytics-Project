@@ -13,15 +13,15 @@ This project demonstrates how SQL can be used to understand a dataset,
 answer business questions, identify trends, and create reporting views.
 ```
 ---
-#✨ The project is ready to the  answer questions such as:
+# ✨ The project is ready to the  answer questions such as:
 ```
-Which customers generate the most revenue?
-Which products have the highest sales?
-How do sales change over time?
-Which categories contribute the largest share of total revenue?
-How does current performance compare with previous periods?
-What customer segments exist in the data?
-Which products should receive more attention based on sales and performance?
+    Which customers generate the most revenue?
+    Which products have the highest sales?
+    How do sales change over time?
+    Which categories contribute the largest share of total revenue?
+    How does current performance compare with previous periods?
+    What customer segments exist in the data?
+    Which products should receive more attention based on sales and performance?
 ```
 ----
 # The workflow progresses through:
@@ -36,7 +36,7 @@ Which products should receive more attention based on sales and performance?
   ->Repository Structure.
 ```
 ---
-
+# Repo contains:
 ```
 SQL-Data-Analytics-Project/
 ├── datasets/
@@ -80,6 +80,8 @@ The docs directory contains supporting project materials:
 
 SQL project roadmap
 Data analytics workflow diagram(draw.io)
+<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/3ef22283-60b9-414a-b7ab-4a189d06deb6" />
+
 Dimension and measure reference
 Project planning information
 Notion roadmap and project planning exports
