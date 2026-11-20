@@ -9,7 +9,8 @@ The repository uses T-SQL and is organized as a repeatable workflow. Each script
 ---------
 # Overview
 ```
-This project demonstrates how SQL can be used to understand a dataset, answer business questions, identify trends, and create reporting views.
+This project demonstrates how SQL can be used to understand a dataset,
+answer business questions, identify trends, and create reporting views.
 ```
 ---
 
@@ -79,7 +80,7 @@ Which products should receive more attention based on sales and performance?
 The docs directory contains supporting project materials:
 
 SQL project roadmap
-Data analytics workflow diagram
+Data analytics workflow diagram(draw.io)
 Dimension and measure reference
 Project planning information
 Notion roadmap and project planning exports
