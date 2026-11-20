@@ -101,4 +101,11 @@ The docs directory contains supporting project materials:
 <img width="2000" height="1024" alt="SQL Project map" src="https://github.com/user-attachments/assets/6e693a5e-7674-4a3a-8204-8008f1565a20" />
 
 
+
+
+# Hii ! I'm Afrin, I'm an aspiring Data Analyst/Business Analyst.This is my repo where i used sql clean organize and answer business question.
+
+# Thank You
+
+# My Mentor
 [![Built with Data With Baraa](https://img.shields.io/badge/Built_with-Data_With_Baraa-F5B301?style=for-the-badge)](https://github.com/DataWithBaraa/sql-data-warehouse-project)
