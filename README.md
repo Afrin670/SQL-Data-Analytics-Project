@@ -9,6 +9,7 @@ The repository uses T-SQL and is organized as a repeatable workflow. Each script
 This project demonstrates how SQL can be used to understand a dataset, answer business questions, identify trends, and create reporting views.
 ---
 **The workflow progresses through:
+```
 ->Database and table exploration
 ->Dimension and measure analysis
 ->Date-range validation
@@ -16,9 +17,11 @@ This project demonstrates how SQL can be used to understand a dataset, answer bu
 ->Trend and cumulative analysis
 ->Customer and product segmentation
 ->Final reporting queries
-->Repository Structure
+->Repository Structure.
+```
 ---
-Text
+
+```
 SQL-Data-Analytics-Project/
 ├── datasets/
 │   └── csv.files/             # Source CSV datasets
@@ -34,9 +37,11 @@ SQL-Data-Analytics-Project/
 │   ├── 12_report_customers.sql
 │   └── 13_report_product.sql
 └── LICENSE
+```
 ---
 # Analysis Workflow
-Script	Purpose
+Script	Purpose:
+```
 00_init_database.sql	Creates and initializes the database objects
 01_database_exploration.sql	Examines databases, tables, columns, and schemas
 02_dimensions_exploration.sql	Identifies dimension values and categorical fields
@@ -51,8 +56,11 @@ Script	Purpose
 11_data_segmentation.sql	Groups records by meaningful business segments
 12_report_customers.sql	Produces the customer-level report
 13_report_product.sql	Produces the product-level report
+
+```
 ---
 # Key Concepts Covered
+```
 1.Dimension and measure identification
 2.Data profiling and metadata discovery
 3.Aggregate functions
@@ -66,9 +74,10 @@ Script	Purpose
 11.Customer segmentation
 12.Product performance reporting
 13.Reporting-ready SQL views or query outputs
+```
 ---
-The project is ready to the  answer questions such as:
-
+# The project is ready to the  answer questions such as:
+```
 Which customers generate the most revenue?
 Which products have the highest sales?
 How do sales change over time?
@@ -76,6 +85,7 @@ Which categories contribute the largest share of total revenue?
 How does current performance compare with previous periods?
 What customer segments exist in the data?
 Which products should receive more attention based on sales and performance?
+```
 ---
 # Documentation
 The docs directory contains supporting project materials:
