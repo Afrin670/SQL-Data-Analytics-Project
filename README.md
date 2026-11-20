@@ -1,4 +1,4 @@
-SQL Data Analytics Project
+# SQL Data Analytics Project
 A complete SQL-based data analytics project covering Exploratory Data Analysis (EDA) and advanced analytics, from initial database discovery to customer and product reporting.
 
 The repository uses T-SQL and is organized as a repeatable workflow. Each script builds on the analysis concepts introduced by the previous one.
@@ -6,18 +6,20 @@ The repository uses T-SQL and is organized as a repeatable workflow. Each script
 ![T-SQL](https://img.shields.io/badge/T--SQL-100%25-blue) ![License](https://img.shields.io/badge/License-MIT-green)
 ---------
 # Overview
+```
 This project demonstrates how SQL can be used to understand a dataset, answer business questions, identify trends, and create reporting views.
 ---
-**The workflow progresses through:
 ```
-->Database and table exploration
-->Dimension and measure analysis
-->Date-range validation
-->Ranking and magnitude analysis
-->Trend and cumulative analysis
-->Customer and product segmentation
-->Final reporting queries
-->Repository Structure.
+# The workflow progresses through:
+```
+  ->Database and table exploration
+  ->Dimension and measure analysis
+  ->Date-range validation
+  ->Ranking and magnitude analysis
+  ->Trend and cumulative analysis
+  ->Customer and product segmentation
+  ->Final reporting queries
+  ->Repository Structure.
 ```
 ---
 
@@ -40,22 +42,22 @@ SQL-Data-Analytics-Project/
 ```
 ---
 # Analysis Workflow
-Script	Purpose:
+✨Script	Purpose:
 ```
-00_init_database.sql	Creates and initializes the database objects
-01_database_exploration.sql	Examines databases, tables, columns, and schemas
-02_dimensions_exploration.sql	Identifies dimension values and categorical fields
-03_date_range_exploration.sql	Determines the available analysis period
-04_measures_exploration.sql	Calculates key summary measures
-05_magnitude_analysis.sql	Compares values across categories
-06_ranking_analysis.sql	Identifies top and bottom records
-07_change_over_time_analysis.sql	Studies trends and changes over time
-08_cumulative_analysis.sql	Calculates running totals and cumulative measures
-09_performative_analysis.sql	Measures performance against benchmarks
-10_part_to_whole_analysis.sql	Calculates category contributions to totals
-11_data_segmentation.sql	Groups records by meaningful business segments
-12_report_customers.sql	Produces the customer-level report
-13_report_product.sql	Produces the product-level report
+  00_init_database.sql	Creates and initializes the database objects
+  01_database_exploration.sql	Examines databases, tables, columns, and schemas
+  02_dimensions_exploration.sql	Identifies dimension values and categorical fields
+  03_date_range_exploration.sql	Determines the available analysis period
+  04_measures_exploration.sql	Calculates key summary measures
+  05_magnitude_analysis.sql	Compares values across categories
+  06_ranking_analysis.sql	Identifies top and bottom records
+  07_change_over_time_analysis.sql	Studies trends and changes over time
+  08_cumulative_analysis.sql	Calculates running totals and cumulative measures
+  09_performative_analysis.sql	Measures performance against benchmarks
+  10_part_to_whole_analysis.sql	Calculates category contributions to totals
+  11_data_segmentation.sql	Groups records by meaningful business segments
+  12_report_customers.sql	Produces the customer-level report
+  13_report_product.sql	Produces the product-level report
 
 ```
 ---
