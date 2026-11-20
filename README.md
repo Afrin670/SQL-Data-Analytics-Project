@@ -103,10 +103,10 @@ The docs directory contains supporting project materials:
 
 
 
- Hii ! I'm Afrin, I'm an aspiring Data Analyst/Business Analyst.This is my repo where i used sql clean organize and answer business question.
+ Hii ! I'm Afrin, I'm an aspiring Data Analyst/Business Analyst.This is my repo where i build DWH from scratch,used sql clean data organize and answer business question.
 
  Thank You
 
 
-# My Mentor
+
 [![Built with Data With Baraa](https://img.shields.io/badge/Built_with-Data_With_Baraa-F5B301?style=for-the-badge)](https://github.com/DataWithBaraa/sql-data-warehouse-project)
