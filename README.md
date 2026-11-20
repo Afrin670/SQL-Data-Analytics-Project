@@ -28,9 +28,9 @@ This project demonstrates how SQL can be used to understand a dataset, answer bu
 ```
 SQL-Data-Analytics-Project/
 ├── datasets/
-│   └── csv.files/             # Source CSV datasets
+│   └── csv.files/                # Source CSV datasets
 ├── docs/
-│   ├── SQL Project map.jpg    # Project architecture and analysis roadmap
+│   ├── SQL Project map.jpg       # Project architecture and analysis roadmap
 │   ├── Dimension & Measure.jpg
 │   ├── Notion Roadmap.pdf
 │   └── planning documents
@@ -44,40 +44,23 @@ SQL-Data-Analytics-Project/
 ```
 ---
 # Analysis Workflow
-✨Script	Purpose:
+ 🔑 Key Concepts Covered:                   
 ```
-  00_init_database.sql	Creates and initializes the database objects
-  01_database_exploration.sql	Examines databases, tables, columns, and schemas
-  02_dimensions_exploration.sql	Identifies dimension values and categorical fields
-  03_date_range_exploration.sql	Determines the available analysis period
-  04_measures_exploration.sql	Calculates key summary measures
-  05_magnitude_analysis.sql	Compares values across categories
-  06_ranking_analysis.sql	Identifies top and bottom records
-  07_change_over_time_analysis.sql	Studies trends and changes over time
-  08_cumulative_analysis.sql	Calculates running totals and cumulative measures
-  09_performative_analysis.sql	Measures performance against benchmarks
-  10_part_to_whole_analysis.sql	Calculates category contributions to totals
-  11_data_segmentation.sql	Groups records by meaningful business segments
-  12_report_customers.sql	Produces the customer-level report
-  13_report_product.sql	Produces the product-level report
+  00_init_database.sql	             Creates and initializes the database objects
+  01_database_exploration.sql	       Examines databases, tables, columns, and schemas
+  02_dimensions_exploration.sql	     Identifies dimension values and categorical fields
+  03_date_range_exploration.sql	     Determines the available analysis period
+  04_measures_exploration.sql	       Calculates key summary measures
+  05_magnitude_analysis.sql	         Compares values across categories
+  06_ranking_analysis.sql	           Identifies top and bottom records
+  07_change_over_time_analysis.sql	 Studies trends and changes over time
+  08_cumulative_analysis.sql	       Calculates running totals and cumulative measures
+  09_performative_analysis.sql	     Measures performance against benchmarks
+  10_part_to_whole_analysis.sql    	 Calculates category contributions to totals
+  11_data_segmentation.sql	         Groups records by meaningful business segments
+  12_report_customers.sql         	 Produces the customer-level report
+  13_report_product.sql	             Produces the product-level report
 
-```
----
-# Key Concepts Covered
-```
-1.Dimension and measure identification
-2.Data profiling and metadata discovery
-3.Aggregate functions
-4.Grouping and filtering
-5.Window functions
-6.Ranking with ROW_NUMBER, RANK, and DENSE_RANK
-7.Cumulative calculations
-8.Running totals
-9.Period-over-period changes
-10.Contribution and percentage analysis
-11.Customer segmentation
-12.Product performance reporting
-13.Reporting-ready SQL views or query outputs
 ```
 ---
 # The project is ready to the  answer questions such as:
