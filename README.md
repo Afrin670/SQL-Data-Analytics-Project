@@ -78,18 +78,24 @@ SQL-Data-Analytics-Project/
 # 📄Documentation
 The docs directory contains supporting project materials:
 
-SQL project roadmap
+# SQL project roadmap:
 
 <img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/3ef22283-60b9-414a-b7ab-4a189d06deb6" />
-Data analytics workflow diagram(draw.io)
+
+
+
+# Data analytics workflow diagram(draw.io):
 
 <img width="795" height="562" alt="Data Flow drawio" src="https://github.com/user-attachments/assets/75d52b21-1b1b-4637-bd43-c4bbc7a77530" />
 
-Dimension and measure reference
+
+# Dimension and measure reference:
 
 <img width="1920" height="1280" alt="Dimension   Measure" src="https://github.com/user-attachments/assets/010853fe-90ad-4650-8ad3-ccbe7ff1440f" />
 
-Project planning information(Notion Roadmap)
+
+
+# Project planning information(Notion Roadmap):
 
 <img width="2000" height="1024" alt="SQL Project map" src="https://github.com/user-attachments/assets/6e693a5e-7674-4a3a-8204-8008f1565a20" />
 
